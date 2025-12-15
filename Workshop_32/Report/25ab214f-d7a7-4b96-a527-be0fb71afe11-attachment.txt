@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_addcourse_2.py:23 test_add_course IS STARTED
+[32mINFO    [0m root:security_page.py:17 Security page is passed
+[32mINFO    [0m root:login_page.py:18 Login successful
+[32mINFO    [0m root:addcourse_page.py:18 Course is added successfully
